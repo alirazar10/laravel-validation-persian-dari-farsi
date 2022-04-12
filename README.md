@@ -11,11 +11,11 @@ Laravel 7, 8, 9 :)
 
 clone or download zip.
 
-Laravel 7, 8 copy to in folowing directory
+In Laravel 7, 8 copy to following directory
 ```
 cd {your-laravel-directory}/resources/lang
 ```
-Laravel 9 copy to in folowing directory
+In Laravel 9 copy to in following directory
 ```
 cd {your-laravel-directory}/lang
 ```
