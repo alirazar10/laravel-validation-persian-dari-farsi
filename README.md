@@ -5,7 +5,7 @@ Persian (Dari دری, Farsi فارسی) laravel validation
 
 ### Prerequisites
 
-Laravel 7, 8, 9 :)
+Laravel [7](https://laravel.com/docs/7.x), [8](https://laravel.com/docs/8.x), [9](https://laravel.com/docs/9.x) :)
 
 ### Installing
 
