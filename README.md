@@ -13,11 +13,11 @@ clone or download zip.
 
 In Laravel 7, 8 copy to following directory
 ```
-cd {your-laravel-directory}/resources/lang
+cd {your-laravel-project-director}/resources/lang
 ```
 In Laravel 9 copy to in following directory
 ```
-cd {your-laravel-directory}/lang
+cd {your-laravel-project-directory}/lang
 ```
 
 and copy `fa` folder and `fa.json` in `lang` 
